@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 # 🔗 Short URL API
@@ -52,7 +51,6 @@ pytest
 
 ## 📂 Estrutura do Projeto
 
-```text
 short-url-api/
 ├── app/
 │   ├── models/       # Modelos do banco de dados (SQLAlchemy)
@@ -64,5 +62,4 @@ short-url-api/
 ├── Dockerfile
 ├── docker-compose.yml
 └── requirements.txt
-```
-```
+
