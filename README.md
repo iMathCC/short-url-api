@@ -1,4 +1,4 @@
-```markdown
+```
 <div align="center">
 
 # 🔗 Short URL API
@@ -9,6 +9,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+[![CI](https://github.com/iMathCC/short-url-api/actions/workflows/ci.yml/badge.svg)](https://github.com/iMathCC/short-url-api/actions/workflows/ci.yml)
 
 </div>
 
