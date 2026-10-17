@@ -1,0 +1,8 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mapeia o banco SQLite para não perder os dados quando o container parar
+      - ./shortener.db:/app/shortener.db
